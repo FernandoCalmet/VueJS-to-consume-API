@@ -1,7 +1,29 @@
 # VueJS-to-consume-API
 Simple Web application with VueJS to consume API.
 
-## Demo
+## Run project:
+
+```bash
+vue serve
+```
+
+## DEPENDENCIES:
+- Vue CLI
+```bash
+npm install -g @vue/cli
+```
+
+- Vue CLI Instant Prototyping
+```bash
+npm install -g @vue/cli @vue/cli-service-global
+```
+
+- Axios
+```bash
+npm install --save axios
+```
+
+### Demo
 ![vuejs simple to consume api](extras/img/demo.png)
 
 ## BUY ME A COFFEE :-)
